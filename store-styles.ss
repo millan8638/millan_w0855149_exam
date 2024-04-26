@@ -1,0 +1,36 @@
+ body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color:#b77891;
+      color: #fff;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav {
+      background-color:#61273e;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .content {
+      padding: 20px;
+      text-align: center;
+    }
+            .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .menu-item {
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+        }
+		
+	
